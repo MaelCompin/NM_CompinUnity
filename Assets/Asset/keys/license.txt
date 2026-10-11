@@ -1,0 +1,11 @@
+Model Information:
+* title:	Keys
+* source:	https://sketchfab.com/3d-models/keys-aaccd2b9848d4e9d938cdc9d5293c7b3
+* author:	imparity (https://sketchfab.com/imparity)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Keys" (https://sketchfab.com/3d-models/keys-aaccd2b9848d4e9d938cdc9d5293c7b3) by imparity (https://sketchfab.com/imparity) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
